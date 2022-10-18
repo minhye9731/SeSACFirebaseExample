@@ -21,6 +21,7 @@
 		0EAB2A4928F793C6000D4277 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 0EAB2A4828F793C6000D4277 /* RealmSwift */; };
 		0EAB2A4B28F799F0000D4277 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAB2A4A28F799F0000D4277 /* Todo.swift */; };
 		0EAB2A4D28F79BAA000D4277 /* MigrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAB2A4C28F79BAA000D4277 /* MigrationViewController.swift */; };
+		0EAF0EDA28FE4DB400DD41EA /* SimpleCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAF0ED928FE4DB400DD41EA /* SimpleCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		0E7C73B528F4F23D00327FB1 /* SeSACFirebaseExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SeSACFirebaseExample.entitlements; sourceTree = "<group>"; };
 		0EAB2A4A28F799F0000D4277 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
 		0EAB2A4C28F79BAA000D4277 /* MigrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigrationViewController.swift; sourceTree = "<group>"; };
+		0EAF0ED928FE4DB400DD41EA /* SimpleCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				0E5D616328ED158300B339C5 /* LaunchScreen.storyboard */,
 				0E5D616628ED158300B339C5 /* Info.plist */,
 				0EAB2A4A28F799F0000D4277 /* Todo.swift */,
+				0EAF0ED928FE4DB400DD41EA /* SimpleCollectionViewController.swift */,
 			);
 			path = SeSACFirebaseExample;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				0E5D615928ED158100B339C5 /* AppDelegate.swift in Sources */,
 				0EAB2A4D28F79BAA000D4277 /* MigrationViewController.swift in Sources */,
 				0E5D615B28ED158100B339C5 /* SceneDelegate.swift in Sources */,
+				0EAF0EDA28FE4DB400DD41EA /* SimpleCollectionViewController.swift in Sources */,
 				0EAB2A4B28F799F0000D4277 /* Todo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
